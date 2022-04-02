@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit sharma</h1>
-<h3 align="center">I'm a full stack iOS developer experienced in swift and javaScript.</h3>
+<h3 align="center">I'm a full stack iOS developer experienced in Swift and javaScript.</h3>
 
 - 🔭 I’m currently working with [webex making world a better place.](https://www.webex.com/)
 
