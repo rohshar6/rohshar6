@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with [webex making world a better place.](https://www.webex.com/)
 
-- 👯 I’m looking to collaborate on **iOS projects.**
+- 👯 I’m looking to collaborate on **iOS projects/macOS projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohshar6](https://github.com/rohshar6)
 
