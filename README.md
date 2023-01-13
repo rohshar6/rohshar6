@@ -30,6 +30,6 @@
 
 ![GitHub stats](https://github-readme-stats-rohshar6-pmqp99r9z-rohshar6.vercel.app/api?username=rohshar6&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-stats-rohshar6.vercel.app.herokuapp.com/?user=rohshar6)  
+![GitHub streak stats](https://github-readme-stats.vercel.app.herokuapp.com/?user=rohshar6)  
 
 ![Profile views](https://gpvc.arturio.dev/rohshar6)  
