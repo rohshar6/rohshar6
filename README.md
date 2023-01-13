@@ -28,8 +28,8 @@
 
 [![Top Langs](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api/top-langs/?username=rohshar6)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api?username=rohshar6&show_icons=true)  
+![GitHub stats](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api?username=rohshar6&show_icons=true&&count_private=true)  
 
-![GitHub streak stats](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/?user=rohshar6)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohshar6&hide_border=true&background=FFFFFF&border=000000)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/rohshar6)  
