@@ -26,10 +26,10 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats-rohshar6-f6mpnoquj-rohshar6.vercel.app/api/top-langs/?username=rohshar6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api/top-langs/?username=rohshar6)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats-rohshar6-f6mpnoquj-rohshar6.vercel.app/api?username=rohshar6&show_icons=true)  
+![GitHub stats](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api?username=rohshar6&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-stats-rohshar6-f6mpnoquj-rohshar6.vercel.app/?user=rohshar6)  
+![GitHub streak stats](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/?user=rohshar6)  
 
 ![Profile views](https://gpvc.arturio.dev/rohshar6)  
