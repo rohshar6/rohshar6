@@ -37,5 +37,3 @@
 ![GitHub stats](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api?username=rohshar6&show_icons=true&&count_private=true)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohshar6&hide_border=true&background=FFFFFF&border=000000)](https://git.io/streak-stats)
-
-![Profile views](https://gpvc.arturio.dev/rohshar6)  
