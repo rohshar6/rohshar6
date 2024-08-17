@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit sharma</h1>
 <h3 align="center">I'm a full stack iOS developer experienced in Swift and javaScript.</h3>
 
-- 🔭 I’m currently working with [webex making world a better place.](https://www.webex.com/)
+- 🔭 I’m currently working with [Zeta.](https://www.zeta.tech/in/) to enhance fintech experience with largest bank in the world.(HDFC)
+- Past Experiences:
+- Zomato [SDE 2]
+- Cisco [SDE 2]
 
 - 👯 I’m looking to collaborate on **iOS projects/macOS projects.**
 
