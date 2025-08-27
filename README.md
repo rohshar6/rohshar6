@@ -1,36 +1,57 @@
-<h1 align="center">Hi 👋, I'm Rohit sharma</h1>
-<h3 align="center">I'm a full stack iOS developer experienced in Swift and javaScript.</h3>
+<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+<h3 align="center">Full Stack iOS Developer | Swift, SwiftUI, Combine, C++ & JavaScript</h3>
 
-- 🔭 I’m currently working with [Zeta](https://www.zeta.tech/in/) to enhance fintech experience with largest bank in the world.(HDFC)
-- Past Experiences:
-- Zomato [SDE 2]
-- Cisco [SDE 2]
+- 🔭 Currently working at [Zeta](https://www.zeta.tech/in/) as **Software Engineer 2 (iOS)**, enhancing fintech experiences with **HDFC Bank (largest private bank in India)**.  
+  - Solely built onboarding & card management modules for **Pixel Digital Credit Card**, enabling **1.5 lakh live cards within 6 months**.  
+  - Delivered multiple features for **Payzapp (HDFC Bank)** app, reducing bugs and improving user engagement.  
 
-- 👯 I’m looking to collaborate on **iOS projects/macOS projects.**
+- 💼 **Past Experience**  
+  - [Zomato](https://www.zomato.com) — *Software Engineer (iOS & Android)* → Scaled merchant & consumer apps to millions of users.  
+  - [Cisco](https://www.cisco.com) — *Software Engineer (Mac)* → Built the embedded app framework for **Webex on macOS**.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohshar6](https://github.com/rohshar6) and also at [https://github.com/rohit236c](https://github.com/rohit236c)
-- Here's my portfolio website: [rohshar6.github.io](https://rohshar6.github.io/)
+- 🏆 Recognitions  
+  - 3× **Spot Awards** & **Mountain Mover Award** at Zeta for delivering features on time and boosting adoption.  
+  - Promoted within a year at Cisco for exceptional delivery and impact.  
 
-- 💬 Ask me about **iOS, macOS and vanilla JavaScript** .
+- 📱 Recently released my own app → [**Time Keeper**](https://apps.apple.com/in/app/time-time-keeper/id1671096673?platform=iphone) (time-tracking tool).  
 
-- 📫 How to reach me **Email: rohit236c@gmail.com** .
+- 👯 Looking to collaborate on **iOS/macOS projects** (UIKit, SwiftUI, Combine, TDD, MVVM).  
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/103YXlussVLy99VZMqfq1boUVIPvqLRbX/view)
+- 👨‍💻 My Projects → [rohshar6](https://github.com/rohshar6) & [rohit236c](https://github.com/rohit236c)  
+- 🌐 Portfolio → [rohshar6.github.io](https://rohshar6.github.io/)  
+- 📄 Resume → [View Here](https://drive.google.com/file/d/103YXlussVLy99VZMqfq1boUVIPvqLRbX/view)  
+- 📫 Reach me → **rohit236c@gmail.com**  
 
-- ⚡ Fun fact **I love reading fiction and self help books** .
+- ⚡ Fun fact → I love reading **fiction & self-help books** 📚  
 
-- Recently, released my new app - https://apps.apple.com/in/app/time-time-keeper/id1671096673?platform=iphone 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohit-sharma-7ab904187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-sharma-7ab904187/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-sharma-7ab904187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</p>
 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats-rohshar6-jfzrtr4i0-rohshar6.vercel.app/api/top-langs/?username=rohshar6)](https://github.com/anuraghazra/github-readme-stats)
 
